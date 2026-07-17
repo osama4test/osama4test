@@ -5,8 +5,6 @@ I don't just write test cases — I build the systems that make quality scalable
 
 A recent example of that last part: an AI-powered tool that reads Azure DevOps user stories and surfaces structured QA insights — acceptance-criteria gaps, missing edge cases — before a story ever reaches a sprint. On the automation side, I work across Playwright and Cypress for UI, API, and BDD-style testing, usually built around Page Object Model and wired into Azure Pipelines rather than left to run manually.
 
-Most recently, I completed a QA take-home for Permission.io — a Playwright + TypeScript suite for an AI chat product, with a deliberate focus on validating non-deterministic streaming responses without asserting on exact text.
-
 ### What I work with
 `Playwright` · `Cypress` · `TypeScript` · `Python` · `REST API testing` · `Gherkin / BDD` · `Azure DevOps & Pipelines` · `Page Object Model`
 
